@@ -8,13 +8,13 @@
 #include<limits.h>
 
 
-void testcase_1(){
-    if(true)    printf('testcase passed');
-    else printf('not passed');
+void testcase_1(int n,int s){
+    if(n!=s) printf("not equal, test case failed\n");
+    printf("test case passed \n");
 }
 
 
-void function add(int a , int b ){
+int adding(int a , int b ){
     return a+b;
 }
 
