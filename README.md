@@ -4,6 +4,6 @@ Taking input 2 or more C files and checking for plagiarism init and producing pe
 
 1. The test files shall be present in the Files_to_be_checked directory.
 
-2. Let the files be named with the format "file01.txt" and maximum file limit shall be 99 i.e., "file99.txt".
+2. Let the files be named with the format "file01.txt" and maximum file limit is 99.
 
-3. Do not delete the Directory named Results.
+3. Plagiarism Report is stored in results directory.
